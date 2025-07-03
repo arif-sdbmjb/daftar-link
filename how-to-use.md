@@ -2,7 +2,7 @@
 
 [Website](https://michaelbarney.github.io/LinkFree/Templates/CasualBlue/)
 
-<img src="Templates/SimpleBlue/preview.png" alt="alt text" width="250px">
+<img src="preview.png" alt="alt text" width="250px">
 
 ## How to Use
 ### index.html
